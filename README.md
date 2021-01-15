@@ -1,0 +1,2 @@
+# BlockAdBlockerBypass
+Bypass for BlockAdBlocker
